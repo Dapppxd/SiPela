@@ -97,8 +97,8 @@
         android:layout_alignParentBottom="true"
         android:background="@color/white"
         app:elevation="8dp"
-        app:itemIconTint="#6200EE"
-        app:itemTextColor="#6200EE"
+        app:itemIconTint="@color/main_color"
+        app:itemTextColor="@color/main_color"
         app:menu="@menu/bottom_nav_menu" />
 
 </RelativeLayout>

@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Booking_Lab"
+rootProject.name = "ReLab"
 include(":app")
  
